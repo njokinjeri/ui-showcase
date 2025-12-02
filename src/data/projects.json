@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "title": "Notion Clone",
         "description": "A productivity app inspired by Notion, allowing users to create notes, to-do lists, and organize content online.",
         "image": "/notion.webp",
@@ -8,6 +9,7 @@
         "sourceCode": "https://github.com/njokinjeri"
     },
     {
+        "id": 2,
         "title": "Linktree Clone",
         "description": "A clone of Linktree that lets users create a single landing page to organize and share multiple links.",
         "image": "/linktree.webp",
@@ -16,6 +18,7 @@
         "sourceCode": "https://github.com/njokinjeri"
     },
     {
+        "id": 3,
         "title": "AI Startup",
         "description": "A demo site for showcasing AI-driven business tools and services, demonstrating practical AI applications.",
         "image": "/ai-startup.webp",
@@ -24,6 +27,7 @@
         "sourceCode": "https://github.com/njokinjeri"
     },
     {
+        "id": 4,
         "title": "DesignLab",
         "description": "A platform to experiment with UI/UX designs, create prototypes, and test visual layouts interactively.",
         "image": "/design-lab.webp",
@@ -32,6 +36,7 @@
         "sourceCode": "https://github.com/njokinjeri"
     },
     {
+        "id": 5,
         "title": "Country Showcase",
         "description": "A web app that lets users explore details of all countries, including population, languages, and geography using REST API data.",
         "image": "/countries.webp",
@@ -40,6 +45,7 @@
         "sourceCode": "https://github.com/njokinjeri"
     },
     {
+        "id": 6,
         "title": "Galleria Slideshow Site",
         "description": "A website that displays a series of images in an interactive slideshow format for galleries or portfolios.",
         "image": "/galleria.webp",
@@ -48,6 +54,7 @@
         "sourceCode": "https://github.com/njokinjeri"
     },
     {
+        "id": 7,
         "title": "Planet Factside",
         "description": "An educational site providing facts and information about planets in our solar system with an engaging interface",
         "image": "/planets.webp",
