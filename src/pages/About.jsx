@@ -1,6 +1,6 @@
 import Logo from "../components/Logo";
 import SocialLinks from "../components/SocialLinks";
-import {ArrowUpRight} from "lucide-react";
+import InteractivePath from "../components/InteractivePath";
 
 
 const About = () => {
@@ -22,8 +22,11 @@ const About = () => {
           >
           UI <sub className="text-2xl">playground</sub>
         </a> {" "} is a space where I showcase design implementations built while learning modern web frameworks. 
-                  Each recreation emphasizes accurate styling, performant interactions, and accessible markup
+                  Each recreation emphasizes accurate styling, performant interactions, and accessible markup.
         </p>
+      </div>
+      <div className="w-full p-8 flex justify-start">
+        <InteractivePath />
       </div>
     </article>
   )
