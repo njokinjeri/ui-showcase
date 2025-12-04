@@ -25,11 +25,11 @@ const About = () => {
                   Each recreation emphasizes accurate styling, performant interactions, and accessible markup.
         </p>
       </div>
-      <div className="w-full p-4 flex justify-start">
+      <div className="p-4 md:p-10 flex justify-start">
         <InteractivePath />
       </div>
     </article>
   )
 }
 
-export default About
+export default About;
