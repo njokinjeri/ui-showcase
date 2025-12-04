@@ -8,7 +8,7 @@ const SocialLinks = ({ className = '' }) => {
         target="_blank"
         rel="noopener noreferrer"
         title="Github"
-        className="text-xl hover:text-violet-300"
+        className="text-2xl hover:text-violet-300"
           >
             <FaGithub />
           </a>
@@ -17,14 +17,14 @@ const SocialLinks = ({ className = '' }) => {
             target="_blank"
             rel="noopener noreferrer"
             title="LinkedIn"
-            className="text-xl hover:text-violet-300"
+            className="text-2xl hover:text-violet-300"
           >
             <FaLinkedinIn />
           </a>
           <a 
             href="mailto:njerinjoki33@gmail.com"
             title="Gmail"
-            className="text-xl hover:text-violet-300"
+            className="text-2xl hover:text-violet-300"
           >
             <FaEnvelope />
           </a>

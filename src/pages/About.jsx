@@ -20,12 +20,12 @@ const About = () => {
               rel="noopener noreferrer"
               className="p-3 font-climate text-6xl "
           >
-          UI <sub className="text-2xl">playground</sub>
-        </a> {" "} is a space where I showcase design implementations built while learning modern web frameworks. 
+          UI <sub className="text-2xl">showcase</sub>
+        </a> {" "} is a space where I bring design implementations to life while learning modern web frameworks. 
                   Each recreation emphasizes accurate styling, performant interactions, and accessible markup.
         </p>
       </div>
-      <div className="w-full p-8 flex justify-start">
+      <div className="w-full p-4 flex justify-start">
         <InteractivePath />
       </div>
     </article>
