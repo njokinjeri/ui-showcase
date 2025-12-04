@@ -75,13 +75,13 @@ const InteractivePath = () => {
   }, []);
 
   return (
-    <div className="overflow-hidden cursor-pointer">
+    <div className="flex flex-col gap-8 cursor-pointer">
       <svg
         ref={svgRef}
-        viewBox="0 0 658 320"
+        viewBox="-20 -20 700 380"
         xmlns="http://www.w3.org/2000/svg"
         preserveAspectRatio="xMidYMid meet"
-        className="w-full h-100"
+        className="w-full h-100 md:h-120"
       >
         <path
           ref={pathRef}
@@ -89,7 +89,7 @@ const InteractivePath = () => {
           fill="#403d39"
           fillOpacity="0"
           stroke="#333333"
-          strokeWidth="29"
+          strokeWidth="31"
         />
         
         <circle 
@@ -113,6 +113,9 @@ const InteractivePath = () => {
           }}
         />
       </svg>
+          <p className="text-sm text-center text-stone-500 select-none">
+            Move your cursor along the path to guide the ball
+          </p>
     </div>
   );
 }
