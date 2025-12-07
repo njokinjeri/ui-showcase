@@ -12,7 +12,7 @@ const InteractivePath = () => {
       const diff = targetDistance - currentDistance;
       
       if (Math.abs(diff) > 1) {
-        const newDistance = currentDistance + diff * 0.01; 
+        const newDistance = currentDistance + diff * 0.006; 
         setCurrentDistance(newDistance);
         
         const path = pathRef.current;
@@ -75,13 +75,13 @@ const InteractivePath = () => {
   }, []);
 
   return (
-    <div className="flex flex-col gap-8 cursor-pointer">
+    <div className="flex flex-col cursor-pointer">
       <svg
         ref={svgRef}
         viewBox="-20 -20 700 380"
         xmlns="http://www.w3.org/2000/svg"
         preserveAspectRatio="xMidYMid meet"
-        className="w-full h-100 md:h-120"
+        className="w-full h-100 md:h-110"
       >
         <path
           ref={pathRef}

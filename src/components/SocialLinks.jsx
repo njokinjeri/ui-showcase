@@ -4,7 +4,7 @@ const SocialLinks = ({ className = '' }) => {
   return (
     <div className={`flex gap-4 ${className}`}>
       <a
-        href="https://github.com/njokinjeri" 
+        href="https://github.com/njokinjeri/ui-showcase" 
         target="_blank"
         rel="noopener noreferrer"
         title="Github"

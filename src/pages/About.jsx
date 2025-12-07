@@ -15,10 +15,8 @@ const About = () => {
       <div className="flex-1 px-8 py-4 w-full lg:w-5/6 flex flex-col gap-8 font-inter text-xl leading-9  text-stone-400">
         <p>
             <a 
-              href="http://" /** add home url */
-              target="_blank"
-              rel="noopener noreferrer"
-              className="p-3 font-climate text-6xl "
+              href="/" 
+              className="p-3 font-climate text-6xl text-white"
           >
           UI <sub className="text-2xl">showcase</sub>
         </a> {" "} is a space where I bring design implementations to life while learning modern web frameworks. 

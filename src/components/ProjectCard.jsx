@@ -7,11 +7,13 @@ const ProjectCard = ({ project }) => {
     return (
         <div className="w-86 xl:w-96 h-115 border border-stone-700 rounded-sm flex flex-col gap-4 overflow-hidden">
           <GradientEffect className="w-full h-60 pt-12 px-6 cursor-pointer">
-            <img
-              src={image}
-              alt={title}
-              className="h-full w-full object-cover rounded-t-sm"
-            />
+            <a href={liveLink} target="_blank">
+              <img
+                src={image}
+                alt={title}
+                className="h-full w-full object-cover rounded-t-sm"
+              />
+            </a>
          </GradientEffect>
           <section className="font-montserrat px-4 flex flex-col gap-4 overflow-hidden">
             <h2 className="text-xl font-bold">{title}</h2>
