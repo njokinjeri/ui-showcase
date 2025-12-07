@@ -16,7 +16,7 @@ const Home = () => {
           A showcase of my practical work with various JavaScript frameworks and tooling.
         </p>
         </div>
-      <section className="flex-1 place-items-center py-16">
+      <section className="flex-1 flex justify-center py-16">
         <div className="grid md:grid-cols-2 xl:grid-cols-3 gap-8">
           {projects.map((project) => (
             <ProjectCard key={project.id} project={project}/>
