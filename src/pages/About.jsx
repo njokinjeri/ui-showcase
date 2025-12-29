@@ -19,8 +19,9 @@ const About = () => {
               className="p-3 font-climate text-6xl text-white"
           >
           UI <sub className="text-2xl">showcase</sub>
-        </a> {" "} is a space where I bring design implementations to life while learning modern web frameworks. 
-                  Each recreation emphasizes accurate styling, performant interactions, and accessible markup.
+        </a> {" "} is a curated space where I recreate real-world interfaces using modern web frameworks.
+                  Each implementation prioritizes visual accuracy, performant interactions, and
+                  accessible markup.
         </p>
       </div>
       <div className="p-4 md:p-10 flex justify-start">
