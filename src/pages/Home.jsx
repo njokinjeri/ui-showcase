@@ -25,7 +25,7 @@ const Home = () => {
         </div>
       </section>
       <footer className="flex justify-between items-center gap-2 p-4 relative">
-        <div className="flex place-items-center">
+        <div className="flex flex-col md:flex-row place-items-center">
           <Logo />
           <h3 className="font-climate text-6xl flex flex-col gap-2 md:flex-row md:items-end">UI <sub className="text-sm">showcase</sub></h3>
         </div>
