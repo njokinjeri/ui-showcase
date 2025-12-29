@@ -41,8 +41,8 @@
         "description": "A web app that lets users explore details of countries, including population, languages, and geography using REST API data.",
         "image": "/countries.webp",
         "tags": ["multi-page", "tailwind", "react"],
-        "liveLink": "http://localhost:5173/",
-        "sourceCode": "https://github.com/njokinjeri"
+        "liveLink": "https://country-showcase.netlify.app/",
+        "sourceCode": "https://github.com/njokinjeri/country-showcase"
     },
     {
         "id": 6,
