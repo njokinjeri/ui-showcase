@@ -13,7 +13,7 @@ const Home = () => {
       <div className="px-8 flex flex-col gap-4">
         <h1 className="font-climate text-7xl">UI <sub className="text-lg">showcase</sub></h1>
         <p className="font-inter text-stone-400">
-          A showcase of my practical work with various JavaScript frameworks and tooling.
+          Thoughtfully crafted interfaces emphasizing clarity, responsiveness, and usability.
         </p>
         </div>
       <section className="flex-1 flex justify-center py-16">

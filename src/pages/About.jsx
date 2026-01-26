@@ -19,9 +19,9 @@ const About = () => {
               className="p-3 font-climate text-6xl text-white"
           >
           UI <sub className="text-2xl">showcase</sub>
-        </a> {" "} is a curated space where I recreate real-world interfaces using modern web frameworks.
-                  Each implementation prioritizes visual accuracy, performant interactions, and
-                  accessible markup.
+        </a> {" "} presents a collection of real-world interface recreations. 
+                  Each project focuses on visual accuracy, performant interactions, 
+                  and accessible, well-structured markup.
         </p>
       </div>
       <div className="p-4 md:p-10 flex justify-start">
