@@ -114,7 +114,7 @@ const InteractivePath = () => {
         />
       </svg>
           <p className="text-sm text-center text-stone-500 select-none">
-            Move your cursor along the path to guide the ball
+            Move your cursor along the path and the ball tags along.
           </p>
     </div>
   );
