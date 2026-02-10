@@ -1,12 +1,12 @@
 [
     {
         "id": 1,
-        "title": "AI Startup",
+        "title": "Opti Query",
         "description": "A demo site for showcasing AI-driven business tools and services, demonstrating practical AI applications.",
         "image": "/ai-startup.webp",
-        "tags": ["typescript", "tailwind", "react", "gsap"],
-        "liveLink": "http://localhost:5173/",
-        "sourceCode": "https://github.com/njokinjeri"
+        "tags": ["typescript", "tailwind", "react"],
+        "liveLink": "https://opti-query.netlify.app/",
+        "sourceCode": "https://github.com/njokinjeri/opti-query"
     },
     {
         "id": 2,
@@ -15,7 +15,7 @@
         "image": "/design-lab.webp",
         "tags": ["typescript", "tailwind", "react", "gsap"],
         "liveLink": "http://localhost:5173/",
-        "sourceCode": "https://github.com/njokinjeri"
+        "sourceCode": "https://github.com/njokinjeri/design-lab"
     },
     {
         "id": 3,
@@ -32,8 +32,8 @@
         "description": "A website that displays a series of images in an interactive slideshow format for galleries or portfolios.",
         "image": "/galleria.webp",
         "tags": ["typescript", "tailwind", "react", "gsap"],
-        "liveLink": "http://localhost:5173/",
-        "sourceCode": "https://github.com/njokinjeri"
+        "liveLink": "https://galleria-arty-demo.netlify.app/",
+        "sourceCode": "https://github.com/njokinjeri/galleria-demo"
     },
     {
         "id": 5,
@@ -41,7 +41,7 @@
         "description": "An educational site providing facts and information about planets in our solar system with an engaging interface",
         "image": "/planets.webp",
         "tags": ["javascript", "tailwind", "react", "gsap"],
-        "liveLink": "http://localhost:5173/",
-        "sourceCode": "https://github.com/njokinjeri"
+        "liveLink": "https://starry-solar-demo.netlify.app/",
+        "sourceCode": "https://github.com/njokinjeri/planet-factsite"
     }
 ]
