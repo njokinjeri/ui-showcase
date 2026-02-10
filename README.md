@@ -12,11 +12,12 @@ UI Showcase is a gallery of independent projects focused on translating designs 
 
 ## Project Sources
 
-Many projects are inspired by or adapted from:
+Projects are inspired by or adapted from:
 
 - [Frontend Mentor](https://www.frontendmentor.io/)
 
-- [Figma Community UI kits](https://www.figma.com/@prokit_design)
+- [Figma Community UI kits](https://www.figma.com/community)
+
 
 ## Tech Stack
 
