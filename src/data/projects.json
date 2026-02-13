@@ -14,7 +14,7 @@
         "description": "A platform to experiment with UI/UX designs, create prototypes, and test visual layouts interactively.",
         "image": "/design-lab.webp",
         "tags": ["typescript", "tailwind", "react", "gsap"],
-        "liveLink": "http://localhost:5173/",
+        "liveLink": "https://design-lab-demo.netlify.app/",
         "sourceCode": "https://github.com/njokinjeri/design-lab"
     },
     {
