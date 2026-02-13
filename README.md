@@ -8,7 +8,7 @@ UI Showcase is a gallery of independent projects focused on translating designs 
 
 - Semantic, accessible HTML structure
 
-*Live site:* **[https://ui-showcase-eight.vercel.app/]**
+*Live site:* **[https://ui-showcase-demo.vercel.app/]**
 
 ## Project Sources
 
